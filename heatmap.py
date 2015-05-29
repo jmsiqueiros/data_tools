@@ -40,7 +40,7 @@ fig,ax=plt.subplots()
 # using the ax subplot object, we use the same
 # syntax as above, but it allows us a little
 # bit more advanced control
-ax.pcolor(data,cmap=plt.cm.OrRd,edgecolors='k')
+ax.pcolor(data,cmap=plt.cm.Reds,edgecolors='k')
 ax.set_xticks(np.arange(0,31)+0.5)
 ax.set_yticks(np.arange(0,9)+0.5)
  
