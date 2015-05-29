@@ -68,6 +68,9 @@ plt.text(0.5,1.08,'Cerrito word use intensity',
 plt.ylabel('Interviewees',fontsize=20)
 plt.xlabel('Words',fontsize=20)
     
-
+# plt.savefig('words_hmap',dpi=None, facecolor='w', edgecolor='w',
+#         orientation='portrait', papertype=None, format=None,
+#         transparent=False, bbox_inches=None, pad_inches=0.4,
+#         frameon=None) 
 plt.show()
 
