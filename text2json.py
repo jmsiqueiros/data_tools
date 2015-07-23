@@ -43,10 +43,10 @@ with open('employee.txt','r') as f:
 jsfile.write(']')
 jsfile.close()
 
-##For this data format
-##Name	EmpId	Department
-##John Smith	00383	Engineering
-##Linda	00385	Finance
-##Samuel	00387	Marketing
-##Casey	00389	Management
-##Albert	00390	Support
+# For this data format
+# Name	EmpId	Department
+# John Smith	00383	Engineering
+# Linda	00385	Finance
+# Samuel	00387	Marketing
+# Casey	00389	Management
+# Albert	00390	Support
